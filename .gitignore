@@ -1,14 +1,14 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+/hooks
 /node_modules
 /.pnp
 .pnp.js
 .yarn/install-state.gz
 
 
-/features/transactions/components
-/features/transactions/hooks
+
 # testing
 /coverage
 
