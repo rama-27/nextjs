@@ -15,6 +15,20 @@
       "when": 1716993525410,
       "tag": "0001_unique_madame_web",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1717836516088,
+      "tag": "0002_fixed_nextwave",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1717916087243,
+      "tag": "0003_smiling_rafael_vega",
+      "breakpoints": true
     }
   ]
 }
