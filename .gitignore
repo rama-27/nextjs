@@ -6,6 +6,9 @@
 .pnp.js
 .yarn/install-state.gz
 
+
+/features/transactions/components
+/features/transactions/hooks
 # testing
 /coverage
 
